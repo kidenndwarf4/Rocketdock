@@ -219,4 +219,4 @@ RocketDock is available as a full free version with all features and updates inc
 Elevate your Windows desktop experience with RocketDock! Don't miss out on this official free download. Get started today!
 
 ---
-**Last updated:** 2026-11-09 18:07:20 UTC
+**Last updated:** 2026-11-10 01:50:11 UTC
